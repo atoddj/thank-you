@@ -1,2 +1,2 @@
-# thank-you
-a note to my team
+# notes
+view on [Github pages](https://github.cms.gov/pages/J568/notes/)
